@@ -28,3 +28,4 @@ def getAnswer(answerNumber):
 
 
 r = random.randint(1, 11)    
+fortune = getAnswer(r)
