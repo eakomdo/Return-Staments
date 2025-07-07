@@ -6,3 +6,4 @@ def getAnswer(answerNumber):
     elif answerNumber == 2:
         return "It is decidedly so."
     elif answerNumber == 3:
+        return "Yes."
