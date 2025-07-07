@@ -1,3 +1,4 @@
 import random
 
-def getAnswer()
+def getAnswer(answerNumber):
+    if answerNumber == 1:
