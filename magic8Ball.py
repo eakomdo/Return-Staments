@@ -10,3 +10,4 @@ def getAnswer(answerNumber):
     elif answerNumber == 4:
         return "Reply hazy, try again."
     elif answerNumber == 5:
+        return "Ask again later."
