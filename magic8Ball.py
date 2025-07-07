@@ -18,3 +18,4 @@ def getAnswer(answerNumber):
     elif answerNumber == 8:
         return "Outlook not so good."
     elif answerNumber == 9:
+        return "Very doubtful."
