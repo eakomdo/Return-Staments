@@ -27,3 +27,5 @@ def getAnswer(answerNumber):
         return "Error: Invalid answer number."
 
 r = random.randint(1, 11)
+fortune = getAnswer(r)
+
