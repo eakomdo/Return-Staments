@@ -5,3 +5,4 @@ def getAnswer(answerNumber):
         return "It is certain." 
     elif answerNumber == 2:
         return "It is decidedly so."
+    elif
