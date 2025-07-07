@@ -26,6 +26,5 @@ def getAnswer(answerNumber):
     else :
         return "Error: Invalid answer number."
 
-r = random.randint(1, 11)
-fortune = getAnswer(r)
 
+r = random.randint(1, 11)    
