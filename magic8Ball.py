@@ -21,3 +21,5 @@ def getAnswer(answerNumber):
         return "Very doubtful."
     elif answerNumber == 10:
         return "Absolutely!"
+    elif answerNumber == 11:
+        return "Without a doubt."
