@@ -23,3 +23,7 @@ def getAnswer(answerNumber):
         return "Absolutely!"
     elif answerNumber == 11:
         return "Without a doubt."
+    else :
+        return "Error: Invalid answer number."
+
+r = random.randint(1, 11)
