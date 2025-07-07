@@ -13,3 +13,4 @@ def getAnswer(answerNumber):
         return "Ask again later."
     elif answerNumber == 6:
         return "Concentrate and ask again."
+    elif answerNumber == 7:
