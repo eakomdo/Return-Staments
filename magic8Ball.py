@@ -8,3 +8,4 @@ def getAnswer(answerNumber):
     elif answerNumber == 3:
         return "Yes."
     elif answerNumber == 4:
+        return "Reply hazy, try again."
