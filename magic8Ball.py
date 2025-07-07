@@ -16,3 +16,4 @@ def getAnswer(answerNumber):
     elif answerNumber == 7:
         return "My reply is no."
     elif answerNumber == 8:
+        return "Outlook not so good."
