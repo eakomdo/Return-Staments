@@ -14,3 +14,4 @@ def getAnswer(answerNumber):
     elif answerNumber == 6:
         return "Concentrate and ask again."
     elif answerNumber == 7:
+        return "My reply is no."
